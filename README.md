@@ -7,5 +7,11 @@ A recreation of the simple snake game that we all have played in our childhood. 
 
 ![snake_gameplay](/Snake_Game/snake.png)
 
+#### Ping Pong
+A minimalistic pong game made with Python using pygame module.
+
+![ping_pong_gameplay](/Ping_Pong/pingpong.png)
+
+
 Hope you enjoy it.
 
